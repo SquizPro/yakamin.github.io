@@ -241,7 +241,12 @@ nav a:hover {
         float: left;
         width: 57%;
     }
-
+	
+	.main article2 {
+        float: left;
+        width: 100%;
+    }
+	
     .main aside {
         float: right;
         width: 28%;
@@ -258,6 +263,9 @@ nav a:hover {
         width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto;
     }
+	
+	
+}
 }
 
 /* ==========================================================================
