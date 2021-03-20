@@ -111,11 +111,6 @@ nav a {
     background: #e44d26;
 }
 
-nav a:hover,
-nav a:visited {
-    color: white;
-}
-
 nav a:hover {
     text-decoration: underline;
 }
@@ -194,6 +189,7 @@ nav a:hover {
         margin-right: 0;
     }
 
+
 /* ========================
     INTERMEDIATE: IE Fixes
    ======================== */
@@ -219,7 +215,8 @@ nav a:hover {
            -moz-box-shadow: 0 5px 10px #aaa;
                 box-shadow: 0 5px 10px #aaa;
     }
-
+	
+	
 /* ============
     WIDE: Menu
    ============ */
